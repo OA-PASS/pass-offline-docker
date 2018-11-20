@@ -2,5 +2,5 @@
 #+AUTHOR: Derek Belrose
 #+EMAIL: dbelrose@jhu.edu
 
-* PASS-Offline-Docker
+* Purpose
   This is a simple nginx container that hosts a single HTML file that displays that PASS is offline.
