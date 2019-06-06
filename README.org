@@ -4,3 +4,6 @@
 
 * Purpose
   This is a simple nginx container that hosts a single HTML file that displays that PASS is offline.
+
+* Dynamic string injection
+  If you pass RETURN_STRING to docker at runtime, it will inject this string after the initial "PASS is currently offline" statement. If not passed, there is nothing after this text
